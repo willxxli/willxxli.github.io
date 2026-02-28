@@ -25,3 +25,14 @@ He combines academic research with professional expertise in finance and investm
 **Research Interests:** Empirical Asset Pricing, Behavioural Finance, Financial Market, Investment, Asset Management, CryptoCurrency, AI Applications in Finance
 
 **Technical Skills:** Python, R, LaTeX, Econometrics, Database Management, LLM/AI Applications
+
+---
+
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cfa-certificate.jpg" title="CFA Charter" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    CFA Charterholder - October 2025
+</div>
