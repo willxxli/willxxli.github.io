@@ -5,7 +5,6 @@ group :jekyll_plugins do
     gem 'jekyll-get-json'
     gem 'jekyll-link-attributes'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-toc'
     gem 'webrick'
