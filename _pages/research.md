@@ -39,7 +39,9 @@ This project leverages advanced AI technologies to understand the institutional 
 ## Research Interests
 
 - **Empirical Asset Pricing:** Understanding the cross-section of expected returns and market anomalies
-- **Fintech:** Exploring the intersection of technology and financial services
-- **Cybersecurity in Finance:** Analyzing the impact of cyber risks on financial institutions
+- **Behavioural Finance:** Examining how psychological factors influence financial decisions
+- **Financial Market:** Analyzing market microstructure and price discovery mechanisms
+- **Investment:** Portfolio construction, risk management, and performance evaluation
+- **Asset Management:** Understanding institutional investors and fund management
+- **CryptoCurrency:** Exploring digital assets and blockchain-based financial systems
 - **AI Applications in Finance:** Leveraging machine learning and LLMs for financial analysis
-- **Big Data Analytics:** Constructing granular datasets to enhance financial decision-making

@@ -2,96 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Zhuoran (Will) Li
+    - name: Location
+      value: Brisbane, Australia
     - name: Languages
-      value: English, German
+      value: English (Full Working Proficiency), Chinese (Native)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy in Finance
+      institution: The University of Queensland, Australia
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Research Areas: Empirical Asset Pricing, Behavioural Finance, Financial Market, Investment, Asset Management, CryptoCurrency, AI Applications in Finance"
+        - "Supervisor: Dr. Min Zhu; Co-Supervisor: Prof. Denis Leung (SMU)"
+    - title: Master of Finance
+      institution: University of Melbourne, Australia
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - First Class Honours in all major subjects
+        - "WAM: 78.5/100 (Distinction, H2A)"
+        - International Graduate Merit Scholarship (25% tuition fee remission)
+    - title: Bachelor of Commerce
+      institution: The University of Queensland, Australia
+      year: 2019 - 2021
+      description:
+        - "Finance and Accounting GPA: 7/7 (Top 1%)"
+        - Shortlisted for Valedictorian
+        - 6 times Dean's Commendations for Academic Excellence
 
-- title: Experience
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Academic Tutor
+      institution: University of Queensland
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - FINM3405 (Derivatives and Risk Management)
+        - RBUS4411 (Applied Research Project)
+        - FINM7402 (Corporate Finance)
+        - FINM7406 (International Financial Management)
+        - Assessed over 500 exam papers
+    - title: Academic Tutor
+      institution: University of Melbourne
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - FNCE20005 (Corporate Financial Decision Making)
+        - Led 8 tutorial classes per week, engaging over 100 students
+        - Evaluated more than 900 assessments
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Professional Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Trader & Trading Mentor
+      institution: Shanghai Xiaojie Education Technology Co., Ltd
+      year: 2023 - Present
+      description:
+        - Professional FX trading using harmonic patterns and price action strategies
+        - Risk-reward ratio of 1:2 with 50% winning ratio
+    - title: Content Creator & Author
+      institution: WeChat Official Account (will_li_finance)
+      year: 2020 - Present
+      description:
+        - Authored over 160 articles on finance and trading
+        - 2000+ subscribers with average 1000 reads per article
 
-- title: Honors and Awards
+- title: Certifications
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - CFA Charterholder
+    - year: 2022
       items:
-        - Max Planck Medal
+        - CFA Level I, II, III Passed
+        - FRM Part I, II Passed
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python (Advanced)
+        - R (Advanced)
+        - LaTeX (Advanced)
+    - title: Research Skills
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Academic Writing
+        - Econometrics
+        - Database Management
+        - LLM/AI Applications
