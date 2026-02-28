@@ -29,6 +29,15 @@ nav_order: 4
 - Maintained an annual 30,000-word record of personal development as part of a long-term goal spanning 50 years
 - Grew the subscriber base to over 2,000 followers
 
+<div class="row justify-content-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/wechat-qr.jpg" title="WeChat QR Code" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Scan to follow my WeChat Official Account
+</div>
+
 ---
 
 ## Certifications
@@ -38,10 +47,3 @@ nav_order: 4
 - **FRM Part I, II** - Passed (July 2022)
 
 *Achieved CFA and FRM certifications at age 22*
-
----
-
-## Languages
-
-- **English:** Full Working Proficiency
-- **Chinese:** Native
