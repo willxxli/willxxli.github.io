@@ -24,11 +24,11 @@ nav_order: 4
 
 **WeChat Official Account ID:** `will_li_finance`
 
-- Authored over 160 articles on money management, macroeconomic events, and buy-side research
+- Authored over 250 articles on money management, macroeconomic events, and buy-side research
 - Developed a dedicated chapter "Trading Insights" featuring daily trading routines and trading philosophy, with an average of 1,000 reads per article
 - Present Top 3 journal papers (JF, RFS, JFE, AER, QJE, JPE) on a daily basis with videos and relevant teaching notes
 - Maintained an annual 30,000-word record of personal development as part of a long-term goal spanning 50 years
-- Grew the subscriber base to over 2,000 followers
+- Grew the subscriber base to over 8,000 followers
 
 <div class="row justify-content-center">
     <div class="col-sm-4 mt-3 mt-md-0">
