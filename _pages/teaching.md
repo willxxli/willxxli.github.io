@@ -176,66 +176,39 @@ Self-developed interactive teaching cases using ChatGPT Canvas for econometrics 
 ### American Economic Review (AER)
 
 **2013**
-- [Salience and Asset Prices](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491848&idx=1&sn=63d9eaa73857ec3479eec93fcf7cd439&chksm=9fe2b9eea89530f857e49456bc21b5853a7888f48bc29b1b2283a0fb392324329b0ee49f1295#rd)
+- [Salience and Asset Prices](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491848&idx=1&sn=63d9eaa73857ec3479eec93fcf7cd439&chksm=9fe2b9eea89530f857e49456bc21b5853a7888f48bc29b1b2283a0fb392324329b0ee49f1295#rd) - BGS
 
 **2007**
-- [Demographics and Industry Returns](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491966&idx=1&sn=2f7762e83796746f5de36393777668f3&chksm=9fe2b998a895308e8b647566384afaa0a5d5e484d354dda4cfb3581ce4a973b291f6071d7491#rd)
+- [Demographics and Industry Returns](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491966&idx=1&sn=2f7762e83796746f5de36393777668f3&chksm=9fe2b998a895308e8b647566384afaa0a5d5e484d354dda4cfb3581ce4a973b291f6071d7491#rd) - DellaVigna & Pollet
 
 **2004**
-- [Does Fund Size Erode Mutual Fund Performance?](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491619&idx=1&sn=a4ce24ed48d4d0119ecc99217e811977&chksm=9fe2b8c5a89531d3f748fac0c545fa561f29049cd1adb454d45a7d381ca83f86003efeaea7e0#rd)
+- [Does Fund Size Erode Mutual Fund Performance?](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491619&idx=1&sn=a4ce24ed48d4d0119ecc99217e811977&chksm=9fe2b8c5a89531d3f748fac0c545fa561f29049cd1adb454d45a7d381ca83f86003efeaea7e0#rd) - Chen et al.
 
-**1981**
-- [Do Stock Prices Move Too Much to Be Justified by Subsequent Changes in Dividends?](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491717&idx=1&sn=756af8c48202a95b68dbb77be6714736&chksm=9fe2b863a8953175531612cfb66b8671994cf214853d854af6b4661e9b3583bc6a1b4e0742d4#rd)
+#### Top 20 AER Classics
 
-**1980**
-- [On the Impossibility of Informationally Efficient Markets](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491731&idx=1&sn=ee4a3532a0743733d8f94f033fc38f60&chksm=9fe2b875a895316308cf7dfdbe05980b687e9a71d1bc334d88c59c7c0341cb9530907ebbd66c#rd)
-- [An Almost Ideal Demand System](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492229&idx=1&sn=5ab627d9e03d30b40b9652ab5b6c508f&chksm=9fe2ba63a8953375e878064a879ea4c96e874e87f638f5cc679484a9fbd42dcdef5b99c1a9fd#rd)
-- [Scale Economies, Product Differentiation, and the Pattern of Trade](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492239&idx=1&sn=854347da58a24100086376b3c6a37041&chksm=9fe2ba69a895337f928953b09a078ed21e8a93c04c37ea8825b84b575009f71553cb35e0a52e#rd)
-
-**1977**
-- [Monopolistic Competition and Optimum Product Diversity](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492221&idx=1&sn=942b9a0a459ba14b31de2e45badc950e&chksm=9fe2ba9ba895338d62699d14aaae55147ed09ac9aa615e99a4bbdd89337714512f7db48c2211#rd)
-
-**1974**
-- [The Political Economy of the Rent-Seeking Society](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492209&idx=1&sn=eba81d21d22a2bf99b8301412ae9a697&chksm=9fe2ba97a8953381858d3e2675dbe94fd15c0f8546acebf5753bd644465a5812f50fc6e0a6c7#rd)
-
-**1973**
-- [The Economic Theory of Agency: The Principal's Problem](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492139&idx=1&sn=e61243c044f554a1cc5ab3f4c575b2a3&chksm=9fe2bacda89533db1963bc0e073ac4046d9d9e02b63c7a6585e5424a0505d4608550d96a8bdf#rd)
-- [Some International Evidence on Output–Inflation Tradeoffs](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492199&idx=1&sn=3a8f3a85353f098eaac941229a70dfc1&chksm=9fe2ba81a89533970275b0400ae634a03d3bd73af399b4d4184187ef67f79c0aa6e2253481d3#rd)
-
-**1972**
-- [Production, Information Costs, and Economic Organization](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492190&idx=1&sn=7e6c915741ace02ccc3ad23b14713c0e&chksm=9fe2bab8a89533ae5c9d09c30a26d2bda562c146ef3b5d7c9fd26f21ad2c7361cb0d8611a924#rd)
-
-**1971**
-- [Optimal Taxation and Public Production I: Production Efficiency](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492160&idx=1&sn=d4aa21684e4836824945a07b88f2dfc3&chksm=9fe2baa6a89533b05089c17cc3091cbb8cfe603b0e2f1ec6f84dbc886b6222e982cf53341550#rd)
-- [Optimal Taxation and Public Production](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492172&idx=1&sn=eeff690f413152b012d195a975e0fab8&chksm=9fe2baaaa89533bcbc3bd3cc44788882d5efca32efa0d88b6422be11097c1e1a8c7a87c4cdb5#rd)
-
-**1970**
-- [Migration, Unemployment and Development](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492150&idx=1&sn=23bf97584031722e4ba3fe75b764cd32&chksm=9fe2bad0a89533c6201fc869a97029fe12f35f9f1aeca7301db5242ae3a3749ce4eb167a865d#rd)
-
-**1968**
-- [The Role of Monetary Policy](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492112&idx=1&sn=e1744a09ae3c36d128624658afc21939&chksm=9fe2baf6a89533e009f012b5a114b552545ad0b12df055961378a6c094dbf626716c52046ff0#rd)
-
-**1965**
-- [National Debt in a Neoclassical Growth Model](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492142&idx=1&sn=2e54ca007139e07eaf00a1e764b71a0f&chksm=9fe2bac8a89533dea3e62f4e8acd520545d99f0daf6058a6aaec9ca4698e213df393540bebdd#rd)
-
-**1963**
-- [Capital Theory and Investment Behavior](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492123&idx=1&sn=af71234d1e306ede4fd2eea99cc94cb5&chksm=9fe2bafda89533eb5788960685798d474f052654c282b3deb87681bb0cdfed6ffcb1089ba2b6#rd)
-- [Uncertainty and the Welfare Economics of Medical Care](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492130&idx=1&sn=8d1f4489f2b741da8e18a78198d8a97c&chksm=9fe2bac4a89533d26c22749e62656a96505d250d20b766a1643457abc7bf8b562cb8a6a73403#rd)
-
-**1961**
-- [A Theory of Optimum Currency Areas](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492120&idx=1&sn=4f4e7b1ef01b9b78bb958abe3e00906f&chksm=9fe2bafea89533e810f028008eed5f82218a06c27f5297f0f1a403310e367e08a8feb5af1d90#rd)
-
-**1958**
-- [The Cost of Capital, Corporation Finance, and the Theory of Investment](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492090&idx=1&sn=a9b7dbca42d6623620489840ba1c225b&chksm=9fe2b91ca895300a35f8b474398ed25c96a89349e2e8af39fb380e7bd8a84aecafe250cbad5e#rd)
-
-**1955**
-- [Economic Growth and Income Inequality](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492062&idx=1&sn=60bbc8b7dc4e7966fa5d40b8c027fda1&chksm=9fe2b938a895302ef34c66a3c52d1c3635a854c2beb55599c19c21eb9124b2338b780cd8d614#rd)
-
-**1945**
-- [The Use of Knowledge in Society](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492048&idx=1&sn=3e806449969b9d25be621495e5484b11&chksm=9fe2b936a8953020456dcc4a42033d28c9ba3fd07ed7b8812c05b2813e4e479ba7a108b0c683#rd)
-
-**1928**
-- [A Theory of Production](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492106&idx=1&sn=c08ba675043918f7391cd370e7156d60&chksm=9fe2baeca89533fa14a2a2cc7f728006c08c323b7eea0b453e9a64fb968e4a838f64456f5a75#rd)
+| Year | Author | Paper |
+|------|--------|-------|
+| 1981 | Shiller | [Do Stock Prices Move Too Much to Be Justified by Subsequent Changes in Dividends?](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491717&idx=1&sn=756af8c48202a95b68dbb77be6714736&chksm=9fe2b863a8953175531612cfb66b8671994cf214853d854af6b4661e9b3583bc6a1b4e0742d4#rd) |
+| 1980 | Grossman & Stiglitz | [On the Impossibility of Informationally Efficient Markets](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247491731&idx=1&sn=ee4a3532a0743733d8f94f033fc38f60&chksm=9fe2b875a895316308cf7dfdbe05980b687e9a71d1bc334d88c59c7c0341cb9530907ebbd66c#rd) |
+| 1980 | Deaton & Muellbauer | [An Almost Ideal Demand System](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492229&idx=1&sn=5ab627d9e03d30b40b9652ab5b6c508f&chksm=9fe2ba63a8953375e878064a879ea4c96e874e87f638f5cc679484a9fbd42dcdef5b99c1a9fd#rd) |
+| 1980 | Krugman | [Scale Economies, Product Differentiation, and the Pattern of Trade](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492239&idx=1&sn=854347da58a24100086376b3c6a37041&chksm=9fe2ba69a895337f928953b09a078ed21e8a93c04c37ea8825b84b575009f71553cb35e0a52e#rd) |
+| 1977 | Dixit & Stiglitz | [Monopolistic Competition and Optimum Product Diversity](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492221&idx=1&sn=942b9a0a459ba14b31de2e45badc950e&chksm=9fe2ba9ba895338d62699d14aaae55147ed09ac9aa615e99a4bbdd89337714512f7db48c2211#rd) |
+| 1974 | Krueger | [The Political Economy of the Rent-Seeking Society](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492209&idx=1&sn=eba81d21d22a2bf99b8301412ae9a697&chksm=9fe2ba97a8953381858d3e2675dbe94fd15c0f8546acebf5753bd644465a5812f50fc6e0a6c7#rd) |
+| 1973 | Ross | [The Economic Theory of Agency: The Principal's Problem](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492139&idx=1&sn=e61243c044f554a1cc5ab3f4c575b2a3&chksm=9fe2bacda89533db1963bc0e073ac4046d9d9e02b63c7a6585e5424a0505d4608550d96a8bdf#rd) |
+| 1973 | Lucas | [Some International Evidence on Output–Inflation Tradeoffs](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492199&idx=1&sn=3a8f3a85353f098eaac941229a70dfc1&chksm=9fe2ba81a89533970275b0400ae634a03d3bd73af399b4d4184187ef67f79c0aa6e2253481d3#rd) |
+| 1972 | Alchian & Demsetz | [Production, Information Costs, and Economic Organization](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492190&idx=1&sn=7e6c915741ace02ccc3ad23b14713c0e&chksm=9fe2bab8a89533ae5c9d09c30a26d2bda562c146ef3b5d7c9fd26f21ad2c7361cb0d8611a924#rd) |
+| 1971 | Diamond & Mirrlees | [Optimal Taxation and Public Production I: Production Efficiency](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492160&idx=1&sn=d4aa21684e4836824945a07b88f2dfc3&chksm=9fe2baa6a89533b05089c17cc3091cbb8cfe603b0e2f1ec6f84dbc886b6222e982cf53341550#rd) |
+| 1971 | Diamond & Mirrlees | [Optimal Taxation and Public Production II](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492172&idx=1&sn=eeff690f413152b012d195a975e0fab8&chksm=9fe2baaaa89533bcbc3bd3cc44788882d5efca32efa0d88b6422be11097c1e1a8c7a87c4cdb5#rd) |
+| 1970 | Harris & Todaro | [Migration, Unemployment and Development](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492150&idx=1&sn=23bf97584031722e4ba3fe75b764cd32&chksm=9fe2bad0a89533c6201fc869a97029fe12f35f9f1aeca7301db5242ae3a3749ce4eb167a865d#rd) |
+| 1968 | Friedman | [The Role of Monetary Policy](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492112&idx=1&sn=e1744a09ae3c36d128624658afc21939&chksm=9fe2baf6a89533e009f012b5a114b552545ad0b12df055961378a6c094dbf626716c52046ff0#rd) |
+| 1965 | Diamond | [National Debt in a Neoclassical Growth Model](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492142&idx=1&sn=2e54ca007139e07eaf00a1e764b71a0f&chksm=9fe2bac8a89533dea3e62f4e8acd520545d99f0daf6058a6aaec9ca4698e213df393540bebdd#rd) |
+| 1963 | Jorgenson | [Capital Theory and Investment Behavior](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492123&idx=1&sn=af71234d1e306ede4fd2eea99cc94cb5&chksm=9fe2bafda89533eb5788960685798d474f052654c282b3deb87681bb0cdfed6ffcb1089ba2b6#rd) |
+| 1963 | Arrow | [Uncertainty and the Welfare Economics of Medical Care](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492130&idx=1&sn=8d1f4489f2b741da8e18a78198d8a97c&chksm=9fe2bac4a89533d26c22749e62656a96505d250d20b766a1643457abc7bf8b562cb8a6a73403#rd) |
+| 1961 | Mundell | [A Theory of Optimum Currency Areas](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492120&idx=1&sn=4f4e7b1ef01b9b78bb958abe3e00906f&chksm=9fe2bafea89533e810f028008eed5f82218a06c27f5297f0f1a403310e367e08a8feb5af1d90#rd) |
+| 1958 | Modigliani & Miller | [The Cost of Capital, Corporation Finance, and the Theory of Investment](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492090&idx=1&sn=a9b7dbca42d6623620489840ba1c225b&chksm=9fe2b91ca895300a35f8b474398ed25c96a89349e2e8af39fb380e7bd8a84aecafe250cbad5e#rd) |
+| 1955 | Kuznets | [Economic Growth and Income Inequality](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492062&idx=1&sn=60bbc8b7dc4e7966fa5d40b8c027fda1&chksm=9fe2b938a895302ef34c66a3c52d1c3635a854c2beb55599c19c21eb9124b2338b780cd8d614#rd) |
+| 1945 | Hayek | [The Use of Knowledge in Society](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492048&idx=1&sn=3e806449969b9d25be621495e5484b11&chksm=9fe2b936a8953020456dcc4a42033d28c9ba3fd07ed7b8812c05b2813e4e479ba7a108b0c683#rd) |
+| 1928 | Cobb & Douglas | [A Theory of Production](http://mp.weixin.qq.com/s?__biz=MzA4NDkwNjM3Nw==&mid=2247492106&idx=1&sn=c08ba675043918f7391cd370e7156d60&chksm=9fe2baeca89533fa14a2a2cc7f728006c08c323b7eea0b453e9a64fb968e4a838f64456f5a75#rd) |
 
 ### Quarterly Journal of Economics (QJE)
 
