@@ -36,3 +36,5 @@ He combines academic research with professional expertise in finance and investm
 <div class="caption">
     CFA Charterholder - October 2025
 </div>
+
+<p style="color: #888; font-size: 0.85em; text-align: right;">Last updated: March 2026</p>
