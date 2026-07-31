@@ -1,0 +1,115 @@
+/*******************************************************************************
+ * Papers table (filterable/sortable list driven by _data/papers.yml)
+ ******************************************************************************/
+
+@use "sass:color";
+
+:root {
+  --badge-behavioural-bg: #{rgba($purple-color, 0.12)};
+  --badge-behavioural-text: #{color.adjust($purple-color, $lightness: -8%)};
+  --badge-asset-pricing-bg: #{rgba($blue-color, 0.12)};
+  --badge-asset-pricing-text: #{color.adjust($blue-color, $lightness: -8%)};
+  --badge-mutual-fund-bg: #{rgba($cyan-color, 0.15)};
+  --badge-mutual-fund-text: #{color.adjust($cyan-color, $lightness: -20%)};
+  --badge-etf-bg: #{rgba($orange-color, 0.15)};
+  --badge-etf-text: #{color.adjust($orange-color, $lightness: -20%)};
+  --badge-governance-bg: #{rgba($green-color, 0.12)};
+  --badge-governance-text: #{color.adjust($green-color, $lightness: -15%)};
+  --badge-classics-bg: #{rgba($grey-color, 0.2)};
+  --badge-classics-text: #{$grey-color-dark};
+  --badge-other-bg: #{rgba($pink-color, 0.12)};
+  --badge-other-text: #{color.adjust($pink-color, $lightness: -15%)};
+}
+
+html[data-theme="dark"] {
+  --badge-behavioural-bg: #{rgba($purple-color, 0.28)};
+  --badge-behavioural-text: #{color.adjust($purple-color, $lightness: 25%)};
+  --badge-asset-pricing-bg: #{rgba($blue-color, 0.28)};
+  --badge-asset-pricing-text: #{color.adjust($blue-color, $lightness: 30%)};
+  --badge-mutual-fund-bg: #{rgba($cyan-color, 0.28)};
+  --badge-mutual-fund-text: #{color.adjust($cyan-color, $lightness: 25%)};
+  --badge-etf-bg: #{rgba($orange-color, 0.28)};
+  --badge-etf-text: #{color.adjust($orange-color, $lightness: 20%)};
+  --badge-governance-bg: #{rgba($green-color, 0.28)};
+  --badge-governance-text: #{color.adjust($green-color, $lightness: 30%)};
+  --badge-classics-bg: #{rgba($grey-color-light, 0.2)};
+  --badge-classics-text: #{$grey-color-light};
+  --badge-other-bg: #{rgba($pink-color, 0.28)};
+  --badge-other-text: #{color.adjust($pink-color, $lightness: 20%)};
+}
+
+.papers-table-wrapper {
+  .papers-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1rem;
+  }
+
+  .papers-filter-btn {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 1rem;
+    border: 1px solid var(--global-divider-color);
+    background: transparent;
+    color: var(--global-text-color-light);
+    cursor: pointer;
+
+    &:hover {
+      border-color: var(--global-theme-color);
+    }
+
+    &.active {
+      background: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+      color: var(--global-hover-text-color);
+    }
+  }
+
+  .paper-theme-badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    padding: 0.1rem 0.55rem;
+    border-radius: 1rem;
+    white-space: nowrap;
+    background: var(--badge-other-bg);
+    color: var(--badge-other-text);
+
+    &.theme-behavioural-finance {
+      background: var(--badge-behavioural-bg);
+      color: var(--badge-behavioural-text);
+    }
+    &.theme-empirical-asset-pricing {
+      background: var(--badge-asset-pricing-bg);
+      color: var(--badge-asset-pricing-text);
+    }
+    &.theme-mutual-fund {
+      background: var(--badge-mutual-fund-bg);
+      color: var(--badge-mutual-fund-text);
+    }
+    &.theme-etf {
+      background: var(--badge-etf-bg);
+      color: var(--badge-etf-text);
+    }
+    &.theme-corporate-finance-governance {
+      background: var(--badge-governance-bg);
+      color: var(--badge-governance-text);
+    }
+    &.theme-classics {
+      background: var(--badge-classics-bg);
+      color: var(--badge-classics-text);
+    }
+  }
+
+  #papers-table {
+    font-size: 0.9rem;
+
+    a {
+      color: var(--global-text-color);
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}

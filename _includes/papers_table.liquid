@@ -1,0 +1,77 @@
+{% assign papers = site.data.papers %}
+{% assign themes = papers | map: "theme" | uniq | sort %}
+
+<div class="papers-table-wrapper">
+  <div class="papers-filter">
+    <button type="button" class="papers-filter-btn active" data-theme="all">All ({{ papers.size }})</button>
+    {% for theme in themes %}
+      {% assign count = 0 %}
+      {% for p in papers %}
+        {% if p.theme == theme %}{% assign count = count | plus: 1 %}{% endif %}
+      {% endfor %}
+      <button type="button" class="papers-filter-btn" data-theme="{{ theme }}">{{ theme }} ({{ count }})</button>
+    {% endfor %}
+  </div>
+
+  <table
+    id="papers-table"
+    data-toggle="table"
+    data-url="{{ '/assets/json/papers.json' | relative_url }}"
+    data-search="true"
+    data-search-align="left"
+    data-pagination="true"
+    data-page-size="25"
+    data-page-list="[25, 50, 100, All]"
+    data-sort-name="year"
+    data-sort-order="desc"
+    class="table table-sm"
+  >
+    <thead>
+      <tr>
+        <th data-field="title" data-sortable="true" data-formatter="paperTitleFormatter">Title</th>
+        <th data-field="authors" data-sortable="true" data-width="180">Authors</th>
+        <th data-field="journal" data-sortable="true" data-width="90">Journal</th>
+        <th data-field="year" data-sortable="true" data-width="70">Year</th>
+        <th data-field="theme" data-sortable="true" data-width="170" data-formatter="paperThemeFormatter">Theme</th>
+      </tr>
+    </thead>
+  </table>
+</div>
+
+<script>
+  function paperTitleFormatter(value, row) {
+    var a = document.createElement("a");
+    a.href = row.url;
+    a.target = "_blank";
+    a.rel = "external nofollow noopener";
+    a.textContent = value;
+    return a.outerHTML;
+  }
+
+  function paperThemeFormatter(value) {
+    var slug = value
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/(^-|-$)/g, "");
+    var span = document.createElement("span");
+    span.className = "paper-theme-badge theme-" + slug;
+    span.textContent = value;
+    return span.outerHTML;
+  }
+
+  document.querySelectorAll(".papers-filter-btn").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      document.querySelectorAll(".papers-filter-btn").forEach(function (b) {
+        b.classList.remove("active");
+      });
+      btn.classList.add("active");
+      var theme = btn.dataset.theme;
+      var $table = $("#papers-table");
+      if (theme === "all") {
+        $table.bootstrapTable("filterBy", {});
+      } else {
+        $table.bootstrapTable("filterBy", { theme: theme });
+      }
+    });
+  });
+</script>
