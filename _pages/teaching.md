@@ -14,7 +14,7 @@ pretty_table: true
 | Course | Level | Notes |
 |--------|-------|-------|
 | FINM3405 - Derivatives and Risk Management | Undergraduate | |
-| RBUS4411 - Applied Research Project | Honours | [Notes](https://www.notion.so/Teaching-Assistant-Work-2a7c2396ede28178af60d4e7feb28f63) |
+| RBUS4411 - Applied Research Project | Honours | [Notes](https://app.notion.com/p/RBUS4411-2026S2-3aac2396ede280b39b9fd81e5d8b4080?source=copy_link) |
 | FINM7402 - Corporate Finance | Master | |
 | FINM7406 - International Financial Management | Master | |
 
