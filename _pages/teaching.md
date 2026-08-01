@@ -13,6 +13,7 @@ pretty_table: true
 
 | Course | Level | Notes |
 |--------|-------|-------|
+| FINM1415 - Introduction to Finance | Undergraduate | [Notes](https://app.notion.com/p/FINM1415-Tutorial-Materials-Students-d5662e1f8725445abf56757860658c74?source=copy_link) |
 | FINM3405 - Derivatives and Risk Management | Undergraduate | |
 | RBUS4411 - Applied Research Project | Honours | [Notes](https://app.notion.com/p/RBUS4411-2026S2-3aac2396ede280b39b9fd81e5d8b4080?source=copy_link) |
 | FINM7402 - Corporate Finance | Master | |
