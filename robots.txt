@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhuoran-li.com/sitemap.xml
+Sitemap: https://willxxli.github.io/sitemap.xml
